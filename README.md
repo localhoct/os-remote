@@ -5,5 +5,5 @@ so after that go to the https://my.telegram.org and get api id and api hash
 and now go a head and install requirements by command << pip install -r requirements.txt >>
  Uses << python main.py >> to run the bot
 you can use your telegram robot by send starts command :)
-
+ if you find any bug report to me on telegram https://t.me/loaclhoct
 I Hope Enjoy :)
