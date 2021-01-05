@@ -18,7 +18,7 @@ import time
 start_time = time.time()
 os.system("cls")
 
-token = '1332557023:AAFhT-fffu8tANgEFZYQ6Sr8lzcueEQqipA'
+token = 'Your Token Here ;) ' #Str
 bot = telebot.TeleBot(token)
 admin = 440904809
 
@@ -453,4 +453,4 @@ def audio(message):
 try:
     bot.polling(True)
 except:
-    print('error Net')
+    print(' I Got Error :( ')
