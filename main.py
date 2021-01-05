@@ -18,9 +18,9 @@ import time
 start_time = time.time()
 os.system("cls")
 
-token = 'Your Token Here ;) ' #Str
+token = 'Your Token Here ;) ' #str
 bot = telebot.TeleBot(token)
-admin = 440904809
+admin = 440904809 # here Enter Your Telegram UserId (int)
 
 bot.send_message(admin, 'سیستم روشن شد!')
 
